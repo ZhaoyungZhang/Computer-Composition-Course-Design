@@ -1,0 +1,19 @@
+|lab33
+offset[0] <= inst39.DB_MAX_OUTPUT_PORT_TYPE
+offset[1] <= inst35.DB_MAX_OUTPUT_PORT_TYPE
+offset[2] <= inst32.DB_MAX_OUTPUT_PORT_TYPE
+offset[3] <= inst29.DB_MAX_OUTPUT_PORT_TYPE
+offset[4] <= inst26.DB_MAX_OUTPUT_PORT_TYPE
+offset[5] <= inst23.DB_MAX_OUTPUT_PORT_TYPE
+offset[6] <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+offset[7] <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+DETA[0] => inst9.IN7
+DETA[1] => inst9.IN6
+DETA[2] => inst9.IN4
+DETA[3] => inst9.IN5
+DETA[4] => inst9.IN3
+DETA[5] => inst9.IN1
+DETA[6] => inst9.IN2
+DETA[7] => inst9.IN0
+
+
